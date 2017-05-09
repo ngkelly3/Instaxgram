@@ -61,3 +61,6 @@ gem 'simple_form'
 
 # include bootstrap
 gem 'bootstrap-sass'
+
+# include bootstrap navbar
+gem 'rails_bootstrap_navbar'
