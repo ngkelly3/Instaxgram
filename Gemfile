@@ -64,3 +64,6 @@ gem 'bootstrap-sass'
 
 # include bootstrap navbar
 gem 'rails_bootstrap_navbar'
+
+# include haml
+gem 'haml'
