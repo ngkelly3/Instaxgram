@@ -53,5 +53,8 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-# include PaperCliop for handling images
+# include PaperClip for handling images
 gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
+
+# include Simple Form
+gem 'simple_form'
