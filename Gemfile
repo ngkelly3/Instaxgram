@@ -58,3 +58,6 @@ gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
 # include Simple Form
 gem 'simple_form'
+
+# include bootstrap
+gem 'bootstrap-sass'
